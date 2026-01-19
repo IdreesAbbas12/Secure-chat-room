@@ -1,0 +1,8 @@
+{
+  "name": "CipherChat Secure",
+  "description": "A high-security messaging platform featuring AES-256 encryption, SHA-256 password hashing, 2FA, and an AI Security Auditor powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
